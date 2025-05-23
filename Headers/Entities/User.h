@@ -1,8 +1,8 @@
 #pragma once
-#include "Headers/Utills/MyString.h"
-#include "Headers/Utills/MyVector.hpp"
-#include "Headers/Entities/UserInbox.h"
-#include "Headers/Entities/Message.h"
+#include "../Utills/MyString.h"
+#include "../Utills/MyVector.hpp"
+#include "UserInbox.h"
+#include "Message.h"
 
 class User
 {

@@ -1,5 +1,5 @@
 #pragma once
-#include "MyString.h"
+#include "../Utills/MyString.h"
 #include <ctime>
 
 class Message

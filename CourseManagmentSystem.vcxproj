@@ -158,7 +158,7 @@
     <ClCompile Include="SourceFiles\Entities\Tutor.cpp" />
     <ClCompile Include="SourceFiles\Entities\User.cpp" />
     <ClCompile Include="SourceFiles\Entities\UserInbox.cpp" />
-    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="SourceFiles\Main.cpp" />
     <ClCompile Include="SourceFiles\Repositories\CourseRepository.cpp" />
     <ClCompile Include="SourceFiles\Repositories\UserRepository.cpp" />
     <ClCompile Include="SourceFiles\Utills\MyString.cpp" />

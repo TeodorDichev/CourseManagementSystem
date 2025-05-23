@@ -1,4 +1,4 @@
-#include "InvalidCommand.h"
+#include "../../Headers/Commands/InvalidCommand.h"
 
 void InvalidCommand::execute() const
 {
