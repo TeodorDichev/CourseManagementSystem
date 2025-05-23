@@ -1,3 +1,8 @@
+/*
+ * Author: Teodor Dichev
+ * Faculty number: 7MI0600424
+ */
+
 #pragma once
 #include "../Entities/Admin.h"
 #include "../Entities/Student.h"

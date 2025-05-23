@@ -1,3 +1,8 @@
+/*
+ * Author: Teodor Dichev
+ * Faculty number: 7MI0600424
+ */
+
 #include "../../Headers/Utills/SerializeFunctions.h"
 
 static size_t getFileSize(std::ifstream& ifs)

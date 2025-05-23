@@ -1,3 +1,8 @@
+/*
+ * Author: Teodor Dichev
+ * Faculty number: 7MI0600424
+ */
+
 #include "../../Headers/Commands/CommandFactory.h"
 
 CommandFactory* CommandFactory::instance = nullptr;

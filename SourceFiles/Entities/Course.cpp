@@ -1,3 +1,8 @@
+/*
+ * Author: Teodor Dichev
+ * Faculty number: 7MI0600424
+ */
+
 #include "../../Headers/Entities/Course.h"
 
 bool Course::isCoursePasswordCorrect(const MyString& password) const
